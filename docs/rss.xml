@@ -1,14 +1,3 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>我的记事本</title><link>https://liuxc2082.github.io</link><description> </description><copyright>我的记事本</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://image.liuxc.us.kg/%E4%B8%AA%E4%BA%BA%E5%A4%B4%E5%83%8F.webp</url><title>avatar</title><link>https://liuxc2082.github.io</link></image><lastBuildDate>Thu, 22 Aug 2024 16:40:34 +0000</lastBuildDate><managingEditor>我的记事本</managingEditor><ttl>60</ttl><webMaster>我的记事本</webMaster><item><title>常用书签</title><link>https://liuxc2082.github.io/post/chang-yong-shu-qian.html</link><description>[**Privatebin**](https://privatebin.net/)&#13;
-&#13;
-[**Google**](https://www.google.com/)&#13;
-&#13;
-[**Github**](https://github.com/)&#13;
-&#13;
-[**Mistral**](https://chat.mistral.ai/chat/)&#13;
-&#13;
-[**ChatGPT**](https://chatgpt.com/)&#13;
-&#13;
-[**Perplexity**](https://www.perplexity.ai/)
-
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>我的记事本</title><link>https://liuxc2082.github.io</link><description> </description><copyright>我的记事本</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://image.liuxc.us.kg/%E4%B8%AA%E4%BA%BA%E5%A4%B4%E5%83%8F.webp</url><title>avatar</title><link>https://liuxc2082.github.io</link></image><lastBuildDate>Mon, 02 Sep 2024 16:04:48 +0000</lastBuildDate><managingEditor>我的记事本</managingEditor><ttl>60</ttl><webMaster>我的记事本</webMaster><item><title>常用书签</title><link>https://liuxc2082.github.io/post/chang-yong-shu-qian.html</link><description>
 [**联合早报**](https://www.zaobao.com/)。</description><guid isPermaLink="true">https://liuxc2082.github.io/post/chang-yong-shu-qian.html</guid><pubDate>Tue, 09 Jul 2024 09:51:05 +0000</pubDate></item></channel></rss>
